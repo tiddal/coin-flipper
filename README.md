@@ -1,10 +1,10 @@
 <!-- omit in toc -->
-# Project Name
+# Coin Flipper
 
 <img src=".github/assets/banner.png" />
 
 <!-- omit in toc -->
-## Project Description
+## A Coin Flipper and A Counter
 
 <!-- omit in toc -->
 ### Table of Contents
