@@ -18,27 +18,28 @@
 
 ## 📃 About
 
-Tell me more about your project, why are you developing it? What problem does it solve?
+This project is part of a series of projects developed in Colt Steele's course - The Modern React Bootcamp. This is my iteration and it differs in the technologies I used and the styles I made.
+
+This application is a coin flipper and a counter of how many times heads or tails have been flipped.
 
 ## 🛠️ Requirements
 
-What do I need to install and run this app?
-
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
-- ...
+- [Yarn](https://yarnpkg.com/)
 
 ## ⚙️ Install
 
-How do I install it?
+To install this project you just have to run the following commands in your terminal:
+
+1. `git clone https://github.com/tiddal/coin-flipper.git`
+2. `yarn`
 
 ## ▶️ Run
 
-How do I run it?
+Run the command `yarn start` and have fun 😀
 
 ## 🚀 Tools and Technologies
-
-What tools and technologies are you using?
 
 - [HTML5](https://developer.mozilla.org/pt-PT/docs/Web/HTML/HTML5)
 - [CSS3](https://www.w3schools.com/css/)
@@ -50,8 +51,8 @@ What tools and technologies are you using?
 
 ## ⚖️ License
 
-Don't forget to protect your work with a License. [Learn more](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository)
+This project is licensed under the MIT license. See [LICENSE](LICENSE) to learn more.
 
 ___
 
-Thank you, made with 💗 by [Synxty](https://github.com/synxty).
+Thank you, made with 💗 by [tiddal](https://github.com/tiddal).
